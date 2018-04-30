@@ -1,0 +1,21 @@
+h1 {
+  color: powderblue;
+}
+
+h3 {
+  color: lightpink;
+}
+
+li:nth-of-type(odd) {
+  color: lime;
+  background-color: blue;
+  width: 450px;
+  padding: 7px;
+}
+
+li:nth-of-type(even) {
+  color: lime;
+  background-color: red;
+  width: 450px;
+  padding: 7px;
+}
