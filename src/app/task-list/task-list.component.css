@@ -1,0 +1,13 @@
+li:nth-of-type(odd) {
+  /*color: #221100;*/
+  /*background-color: #ddccbb;*/
+  width: 450px;
+  padding: 7px;
+}
+
+li:nth-of-type(even) {
+  /*color: #ddeecc;*/
+  /*background-color: #665544;*/
+  width: 450px;
+  padding: 7px;
+}
